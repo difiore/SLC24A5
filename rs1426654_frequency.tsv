@@ -1,0 +1,79 @@
+#URL	https://www.ncbi.nlm.nih.gov/snp/rs1426654/download/frequency
+#NCBI Reference SNP (rs) Report ALPHA	rs1426654
+#Current Build	155
+#Released	April 27, 2021
+#Organism	Homo sapiens
+#Position	chr15:48134287 (GRCh38.p13)
+#Alleles	A>G / A>T
+#Variation Type	SNV (Single Nucleotide Variation)
+#Publications	55 citations
+#
+#Frequency Data Table
+#################
+#Study	Population	Group	Samplesize	Ref Allele	Alt Allele	BioProject ID	BioSample ID
+gnomAD - Exomes	Global	Study-wide	251246	A=0.770042	G=0.229958	PRJNA398795	SAMN07488253
+gnomAD - Exomes	European	Sub	135254	A=0.995098	G=0.004902		SAMN10181265
+gnomAD - Exomes	Asian	Sub	48990	A=0.48669	G=0.51331		
+gnomAD - Exomes	American	Sub	34554	A=0.47887	G=0.52113		SAMN07488255
+gnomAD - Exomes	African	Sub	16240	A=0.18904	G=0.81096		SAMN07488254
+gnomAD - Exomes	Ashkenazi Jewish	Sub	10076	A=0.99563	G=0.00437		SAMN07488252
+gnomAD - Exomes	Other	Sub	6132	A=0.8785	G=0.1215		SAMN07488248
+gnomAD - Genomes	Global	Study-wide	140066	A=0.702255	G=0.297745	PRJNA398795	SAMN07488253
+gnomAD - Genomes	European	Sub	75918	A=0.99505	G=0.00495		SAMN10181265
+gnomAD - Genomes	African	Sub	41940	A=0.20737	G=0.79263		SAMN07488254
+gnomAD - Genomes	American	Sub	13614	A=0.67871	G=0.32129		SAMN07488255
+gnomAD - Genomes	Ashkenazi Jewish	Sub	3322	A=0.9973	G=0.0027		SAMN07488252
+gnomAD - Genomes	East Asian	Sub	3126	A=0.0125	G=0.9875		SAMN07488251
+gnomAD - Genomes	Other	Sub	2146	A=0.7134	G=0.2866		SAMN07488248
+ExAC	Global	Study-wide	121320	A=0.771736	G=0.228264	PRJEB8661	SAMN07490465
+ExAC	Europe	Sub	73314	A=0.99504	G=0.00496		
+ExAC	Asian	Sub	25158	A=0.50767	G=0.49233		
+ExAC	American	Sub	11538	A=0.43803	G=0.56197		
+ExAC	African	Sub	10402	A=0.19881	G=0.80119		
+ExAC	Other	Sub	908	A=0.862	G=0.138		SAMN07486028
+The PAGE Study	Global	Study-wide	78700	A=0.37090	G=0.62910	PRJNA168052	SAMN10868975
+The PAGE Study	AfricanAmerican	Sub	32516	A=0.22733	G=0.77267		SAMN10868721
+The PAGE Study	Mexican	Sub	10810	A=0.53414	G=0.46586		SAMN10868735
+The PAGE Study	Asian	Sub	8318	A=0.0130	G=0.9870		SAMN10868722
+The PAGE Study	PuertoRican	Sub	7918	A=0.6652	G=0.3348		SAMN10868968
+The PAGE Study	NativeHawaiian	Sub	4534	A=0.2644	G=0.7356		SAMN10868777
+The PAGE Study	Cuban	Sub	4230	A=0.8265	G=0.1735		SAMN10868733
+The PAGE Study	Dominican	Sub	3828	A=0.5585	G=0.4415		SAMN10868734
+The PAGE Study	CentralAmerican	Sub	2450	A=0.4771	G=0.5229		SAMN10868729
+The PAGE Study	SouthAmerican	Sub	1980	A=0.5525	G=0.4475		SAMN10868969
+The PAGE Study	NativeAmerican	Sub	1260	A=0.6984	G=0.3016		SAMN10868739
+The PAGE Study	SouthAsian	Sub	856	A=0.786	G=0.214		SAMN10868970
+8.3KJPN	JAPANESE	Study-wide	16760	A=0.00239	G=0.99761	PRJNA678214	SAMN16789458
+1000Genomes	Global	Study-wide	5008	A=0.4377	G=0.5623	PRJEB6930	SAMN07490465
+1000Genomes	African	Sub	1322	A=0.0741	G=0.9259		SAMN07486022
+1000Genomes	East Asian	Sub	1008	A=0.0119	G=0.9881		SAMN07486024
+1000Genomes	Europe	Sub	1006	A=0.9970	G=0.0030		SAMN07488239
+1000Genomes	South Asian	Sub	978	A=0.685	G=0.315		SAMN07486027
+1000Genomes	American	Sub	694	A=0.589	G=0.411		SAMN07488242
+Genetic variation in the Estonian population	Estonian	Study-wide	4480	A=0.9935	G=0.0065	PRJNA489787	
+The Avon Longitudinal Study of Parents and Children	PARENT AND CHILD COHORT	Study-wide	3854	A=0.9948	G=0.0052	PRJEB7217	
+UK 10K study - Twins	TWIN COHORT	Study-wide	3708	A=0.9978	G=0.0022	PRJEB7218	
+KOREAN population from KRGDB	KOREAN	Study-wide	2930	A=0.0055	G=0.9945	PRJNA589833	
+Korean Genome Project	KOREAN	Study-wide	1832	A=0.0055	G=0.9945	PRJNA609628	
+HapMap	Global	Study-wide	1782	A=0.3664	G=0.6336	PRJNA60817	SAMN10820145
+HapMap	African	Sub	692	A=0.158	G=0.842		SAMN10821181
+HapMap	American	Sub	660	A=0.550	G=0.450		SAMN10821182
+HapMap	Asian	Sub	254	A=0.024	G=0.976		SAMN10821184
+HapMap	Europe	Sub	176	A=0.994	G=0.006		SAMN10821183
+Genome-wide autozygosity in Daghestan	Global	Study-wide	1132	A=0.9037	G=0.0963	PRJNA576826	SAMN13013121
+Genome-wide autozygosity in Daghestan	Daghestan	Sub	628	A=0.981	G=0.019		SAMN13013126
+Genome-wide autozygosity in Daghestan	Near_East	Sub	144	A=0.958	G=0.042		SAMN13013123
+Genome-wide autozygosity in Daghestan	Central Asia	Sub	118	A=0.653	G=0.347		SAMN13013124
+Genome-wide autozygosity in Daghestan	Europe	Sub	108	A=0.972	G=0.028		SAMN13013127
+Genome-wide autozygosity in Daghestan	South Asian	Sub	98	A=0.52	G=0.48		SAMN13013122
+Genome-wide autozygosity in Daghestan	Caucasus	Sub	36	A=1.00	G=0.00		SAMN13013125
+CNV burdens in cranial meningiomas	Global	Study-wide	790	A=0.035	G=0.965	PRJEB37584	SAMN15458720
+CNV burdens in cranial meningiomas	CRM	Sub	790	A=0.035	G=0.965		SAMN15458720
+A Vietnamese Genetic Variation Database	Global	Study-wide	612	A=0.015	G=0.985	PRJNA515199	SAMN10744005
+Northern Sweden	ACPOP	Study-wide	600	A=0.990	G=0.010	PPRJNA503394	SAMN10359154
+Medical Genome Project healthy controls from Spanish population	Spanish controls	Study-wide	534	A=0.970	G=0.030	PRJEB8705	SAMN13001620
+SGDP_PRJ	Global	Study-wide	348	A=0.101	G=0.899	PRJNA586841	
+Qatari	Global	Study-wide	216	A=0.824	G=0.176	PRJNA288297	SAMN13019808
+Ancient Sardinia genome-wide 1240k capture data generation and analysis	Global	Study-wide	70	A=1.00	G=0.00	PRJEB36033	SAMN15458807
+The Danish reference pan genome	Danish	Study-wide	40	A=0.97	G=0.03	PRJEB7725	SAMN13003120
+Siberian	Global	Study-wide	14	A=0.43	G=0.57	PRJNA267856	SAMN13113809
